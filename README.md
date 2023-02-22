@@ -2,7 +2,7 @@
 A simple python project that scrapes race, team, and driver data from the Formula 1 website.
 
 ## Description
-This is a simple python project that scrapes data from various pages on the Formula 1 website. The data is parsed using the requests and bs4 python libraries. The data is taken from the website and stored in a dataframe using the pandas python library. These dataframes are then formatted and exported/written to several excel files created at runtime. Some example excel files are stored in the repo.
+This is a simple python project that scrapes data from various pages on the Formula 1 website. The data is parsed using the requests and bs4 python libraries. The data is taken from the website and stored in a dataframe using the pandas python library. These dataframes are then formatted and exported/written to several excel files created at runtime. A few example excel files are stored in the repo.
 
 ## Getting Started
 * Make sure that you have the latest version of python installed on your computer
